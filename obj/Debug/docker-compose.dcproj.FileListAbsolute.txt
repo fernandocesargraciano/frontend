@@ -1,0 +1,16 @@
+C:\Users\Fernando\Desktop\ProjetoMarcus\bin\Debug\appsettings.Development.json
+C:\Users\Fernando\Desktop\ProjetoMarcus\bin\Debug\appsettings.json
+C:\Users\Fernando\Desktop\ProjetoMarcus\bin\Debug\Properties\launchSettings.json
+C:\Users\Fernando\Desktop\ProjetoMarcus\bin\Debug\Examples.Charge.API.dll
+C:\Users\Fernando\Desktop\ProjetoMarcus\bin\Debug\Examples.Charge.Application.dll
+C:\Users\Fernando\Desktop\ProjetoMarcus\bin\Debug\Examples.Charge.Infra.Data.dll
+C:\Users\Fernando\Desktop\ProjetoMarcus\bin\Debug\Examples.Charge.Infra.CrossCutting.IoC.dll
+C:\Users\Fernando\Desktop\ProjetoMarcus\bin\Debug\Examples.Charge.Domain.dll
+C:\Users\Fernando\Desktop\ProjetoMarcus\bin\Debug\Examples.Charge.API.pdb
+C:\Users\Fernando\Desktop\ProjetoMarcus\bin\Debug\Examples.Charge.Application.pdb
+C:\Users\Fernando\Desktop\ProjetoMarcus\bin\Debug\Examples.Charge.Infra.Data.pdb
+C:\Users\Fernando\Desktop\ProjetoMarcus\bin\Debug\Examples.Charge.Infra.CrossCutting.IoC.pdb
+C:\Users\Fernando\Desktop\ProjetoMarcus\bin\Debug\Examples.Charge.Domain.pdb
+C:\Users\Fernando\Desktop\ProjetoMarcus\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\ProjetoMarcus\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\ProjetoMarcus\obj\Debug\docker-compose.dcproj.CopyComplete

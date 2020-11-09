@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Web Charge",
+    "\\Web Charge\\Examples.Charge.Application",
+    "\\Web Charge\\Examples.Charge.Application\\Dtos",
+    "\\Web Charge\\Examples.Charge.Application\\Facade",
+    "\\Web Charge\\Examples.Charge.Application\\Interfaces",
+    "\\Web Charge\\Examples.Charge.Application\\Messages",
+    "\\Web Charge\\Examples.Charge.Application\\Messages\\Response",
+    "\\Web Charge\\Examples.Charge.Domain",
+    "\\Web Charge\\Examples.Charge.Domain\\Aggregates",
+    "\\Web Charge\\Examples.Charge.Domain\\Aggregates\\PersonAggregate",
+    "\\Web Charge\\Examples.Charge.Domain\\Aggregates\\PersonAggregate\\Interfaces"
+  ],
+  "SelectedNode": "\\Web Charge\\Examples.Charge.Domain\\Aggregates\\PersonAggregate\\PersonService.cs",
+  "PreviewInSolutionExplorer": false
+}
