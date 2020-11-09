@@ -1,5 +1,4 @@
-﻿
-using Examples.Charge.Application.Messages.Response;
+﻿using Examples.Charge.Application.Messages.Response;
 using System.Threading.Tasks;
 
 namespace Examples.Charge.Application.Interfaces

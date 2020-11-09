@@ -18,6 +18,9 @@ namespace Examples.Charge.Domain.Aggregates.PersonAggregate
 
         public PhoneNumberType PhoneNumberType { get; set; }
 
-        public ICollection<IEventData> DomainEvents => throw new NotImplementedException();
+        public ICollection<IEventData> DomainEvents() 
+        {
+            return null;
+        }
     }
 }

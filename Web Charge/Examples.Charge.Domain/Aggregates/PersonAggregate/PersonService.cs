@@ -14,6 +14,21 @@ namespace Examples.Charge.Domain.Aggregates.PersonAggregate
 
         }
 
+        public Task Add(PersonPhone objeto)
+        {
+            throw new System.NotImplementedException();
+        }
+
         public async Task<List<Person>> FindAllAsync() => (await _personRepository.FindAllAsync()).ToList();
+
+        public Task Remove(PersonPhone objeto)
+        {
+            throw new System.NotImplementedException();
+        }
+
+        public Task Update(PersonPhone objeto)
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }

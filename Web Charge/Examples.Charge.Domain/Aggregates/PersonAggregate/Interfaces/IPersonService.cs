@@ -8,5 +8,9 @@ namespace Examples.Charge.Domain.Aggregates.PersonAggregate.Interfaces
     public interface IPersonService
     {
         Task<List<Person>> FindAllAsync();
+
+        Task Add(PersonPhone objeto);
+        Task Update(PersonPhone objeto);
+        Task Remove(PersonPhone objeto);
     }
 }

@@ -34,6 +34,18 @@ namespace Examples.Charge.API
             NativeInjector.Setup(services);
             services.AddAutoMapper();
 
+            services.AddCors(option =>
+            {
+                option.AddPolicy("basico", builder =>
+                {
+                    builder.AllowAnyOrigin();
+                    builder.AllowAnyHeader();
+                    builder.AllowAnyMethod();
+                });
+
+            });
+
+
             services.AddSwaggerGen(options =>
             {
                 options.CustomSchemaIds(x => x.FullName);
@@ -72,7 +84,7 @@ namespace Examples.Charge.API
             }
 
             app.UseSwagger();
-
+            app.UseCors("basico");
             app.UseSwaggerUI(options =>
             {
                 options.SwaggerEndpoint("../swagger/v1/swagger.json", "Example Api");
